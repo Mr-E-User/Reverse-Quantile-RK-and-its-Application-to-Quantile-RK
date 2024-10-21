@@ -4,7 +4,7 @@ Code requires installation of [Matlab2Tikz](https://www.mathworks.com/matlabcent
 
 **`ash958.mat`** in the Matrix folder was supplied by the SparseSuite collection[^2].
 
-Associated paper: to be linked
+Associated paper: [arXiv link](https://arxiv.org/abs/2410.13395)
 
 [^1]:Nico Schlömer (2024). matlab2tikz/matlab2tikz (https://github.com/matlab2tikz/matlab2tikz), GitHub. Retrieved September 21, 2024. 
 
