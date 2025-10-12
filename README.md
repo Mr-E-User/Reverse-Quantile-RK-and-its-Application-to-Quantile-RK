@@ -9,7 +9,17 @@ Code requires installation of [Matlab2Tikz](https://www.mathworks.com/matlabcent
 **Abstract:** When solving linear systems $Ax=b$, $A$ and $b$ are given, but the measurements $b$ often contain corruptions. Inspired by recent work on the quantile-randomized Kaczmarz method, we propose an acceleration of the randomized Kaczmarz method in the uncorrupted setting using quantile information. We show that the proposed acceleration converges faster than the randomized Kaczmarz algorithm. In addition, we show that our proposed approach can be used in conjunction with the quantile-randomized Kaczamrz algorithm, without adding additional computational complexity, to produce both a fast and robust iterative method for solving large, sparsely corrupted linear systems that are sufficiently well-conditioned. Our extensive experimental results support the use of the revised algorithm.
 
 **Figures Generated from Code (converted to png):**
-[rqRK_varying_quantiles](/Images/rqRK_varying_quantiles.png)
+![rqRK_varying_quantiles](/Images/rqRK_varying_quantiles.png)
+
+![dqRK_qRK_comparison](/Images/dqRK_qRK_comparison.png)
+
+![dqRK_varying_quantiles](/Images/dqRK_varying_quantiles.png)
+
+![algorithm_run_times_table](/Images/algorithm_run_times_table.png)
+
+![time_to_reach_threshold_table](/Images/time_to_reach_threshold_table.png)
+
+![heat_map_figure](/Images/heat_map_figure.png)
 
 [^1]:Nico Schlömer (2024). matlab2tikz/matlab2tikz (https://github.com/matlab2tikz/matlab2tikz), GitHub. Retrieved September 21, 2024. 
 
